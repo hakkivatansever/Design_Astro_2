@@ -1,6 +1,6 @@
 export default function Navigation() {
   return (
-    <nav className="bg-cyan-200 text-black w-30 h-screen fixed top-0 left-0 flex flex-col items-center text-center justify-center">
+    <nav className="bg-white text-black w-30 h-screen fixed top-0 left-0 flex flex-col items-center text-center justify-center">
         <ul>
             <li className="text-lg my-12">
                 <a href="/" className="flex flex-col items-center">
